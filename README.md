@@ -79,7 +79,7 @@ Following inferences can be drawn from the dashboard;
 
 - To reduce costs, it is recommended to refrain from ordering certain products, such as Packaged Chocolates, during months when they contribute less to overall revenue.
 
--Consider adjusting store hours by shortening them in cases where the total guest count for the month falls below 200, aiming to optimize cost-of-operation.
+- Consider adjusting store hours by shortening them in cases where the total guest count for the month falls below 200, aiming to optimize cost-of-operation.
 
 
 
